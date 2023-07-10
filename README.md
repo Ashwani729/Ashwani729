@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/ashwani-kumar-upadhyay-6260591b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwani-kumar-upadhyay-6260591b9" height="30" width="40" /></a>
 <a href="https://fb.com/ashwani.upadhyay.3150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashwani.upadhyay.3150" height="30" width="40" /></a>
 <a href="https://instagram.com/ashwani.u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashwani.u" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/upadhyay9122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="upadhyay9122" height="30" width="40" /></a>
+
 <a href="https://auth.geeksforgeeks.org/user/ashwanikumarupadhyayme22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashwanikumarupadhyayme22" height="30" width="40" /></a>
 </p>
 
