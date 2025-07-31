@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwani729&label=Profile%20views&color=0e75b6&style=flat" alt="ashwani729" /> </p>
 
-- 🔭 I’m currently working on **Medtronics (Frontend)**
+- 🔭 I’m currently working on **Fastenal India(Fortune 500 company)**
 
 - 🌱 I’m currently learning **New Gen AI**
 
