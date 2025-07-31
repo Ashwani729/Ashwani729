@@ -1,17 +1,17 @@
 
 <h1 align="center">Hi 👋, I'm Ashwani Kumar Upadhyay</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack  developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtueDU2bDAzeGRwc3ZtcGM5eGM3YjNxaG04MjF4NHRjYnphbTVoYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwani729&label=Profile%20views&color=0e75b6&style=flat" alt="ashwani729" /> </p>
 
 - 🔭 I’m currently working on **Medtronics (Frontend)**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **New Gen AI**
 
 - 👯 I’m currently improving my **Web Development stack**
 
-- 💬 Ask me about **ReactJs,JavaScript,DSA**
+- 💬 Ask me about **Java,SPringBoot,ReactJs,JavaScript,DSA**
 
 - 📫 How to reach me **upadhyay9122@gmail.com**
 
